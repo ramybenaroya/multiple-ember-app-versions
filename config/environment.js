@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'multiple-ember-app-versions',
     environment: environment,
-    baseURL: '/',
+    baseURL: 'multiple-ember-app-versions',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
